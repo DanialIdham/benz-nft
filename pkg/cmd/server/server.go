@@ -7,12 +7,12 @@ import (
 	"strings"
 	"time"
 
+	"github.com/DanialIdham/benz/pkg/cmd"
+	"github.com/DanialIdham/benz/pkg/controller"
+	"github.com/DanialIdham/benz/pkg/database"
+	"github.com/DanialIdham/benz/pkg/util"
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
-	"github.com/danial.idham/benz/pkg/cmd"
-	"github.com/danial.idham/benz/pkg/controller"
-	"github.com/danial.idham/benz/pkg/database"
-	"github.com/danial.idham/benz/pkg/util"
 	"gorm.io/gorm"
 
 	"github.com/gin-contrib/cors"

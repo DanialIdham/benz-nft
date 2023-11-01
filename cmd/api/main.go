@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/danial.idham/benz/pkg/cmd"
-	"github.com/danial.idham/benz/pkg/cmd/server"
+	"github.com/DanialIdham/benz/pkg/cmd"
+	"github.com/DanialIdham/benz/pkg/cmd/server"
 )
 
 func main() {

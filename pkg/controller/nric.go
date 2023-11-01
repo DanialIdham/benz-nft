@@ -5,8 +5,8 @@ import (
 	"encoding/hex"
 	"net/http"
 
-	"github.com/danial.idham/benz/pkg/repo"
-	"github.com/danial.idham/benz/pkg/response"
+	"github.com/DanialIdham/benz/pkg/repo"
+	"github.com/DanialIdham/benz/pkg/response"
 	"github.com/gin-gonic/gin"
 	"github.com/lmittmann/w3"
 	"github.com/lmittmann/w3/module/eth"

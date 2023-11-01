@@ -1,4 +1,4 @@
-module github.com/danial.idham/benz
+module github.com/DanialIdham/benz
 
 go 1.20
 

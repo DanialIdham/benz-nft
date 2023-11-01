@@ -3,7 +3,7 @@ package database
 import (
 	"fmt"
 
-	"github.com/danial.idham/benz/pkg/repo"
+	"github.com/DanialIdham/benz/pkg/repo"
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 )
